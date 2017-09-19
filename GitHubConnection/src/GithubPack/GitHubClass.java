@@ -24,7 +24,7 @@ public class GitHubClass {
 		{
 			String date=allDates.get(i).getText();
 			
-			if(date.equalsIgnoreCase("30"))
+			if(date.equalsIgnoreCase("29"))
 			{
 				allDates.get(i).click();
 				break;
