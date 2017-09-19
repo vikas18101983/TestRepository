@@ -25,7 +25,7 @@ public class Githubc {
 		{
 			String date=allDates.get(i).getText();
 			
-			if(date.equalsIgnoreCase("26"))
+			if(date.equalsIgnoreCase("20"))
 			{
 				allDates.get(i).click();
 				break;
