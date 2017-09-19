@@ -20,7 +20,7 @@ public class GitClass {
 		{
 			String date=ele.getText();
 			
-			if(date.equalsIgnoreCase("28"))
+			if(date.equalsIgnoreCase("27"))
 			{
 				ele.click();
 				break;
